@@ -1,0 +1,31 @@
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\bin\Debug\HeChuanDoanBenh.exe.config
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\bin\Debug\HeChuanDoanBenh.exe
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\bin\Debug\HeChuanDoanBenh.pdb
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.csprojResolveAssemblyReference.cache
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.Properties.Resources.resources
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.csproj.GenerateResource.Cache
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.exe
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.pdb
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.QuanLiLuat.resources
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.Ketqua.resources
+c:\users\tran tien dung\documents\visual studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.Main.resources
+C:\Users\Tran Tien Dung\Documents\Visual Studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.Thongtin.resources
+C:\Users\Tran Tien Dung\Documents\Visual Studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.XemHuongDan.resources
+C:\Users\Tran Tien Dung\Documents\Visual Studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.Anh.resources
+C:\Users\Tran Tien Dung\Documents\Visual Studio 2013\Projects\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.huongdan.resources
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\bin\Debug\HeChuanDoanBenh.exe.config
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\bin\Debug\HeChuanDoanBenh.exe
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\bin\Debug\HeChuanDoanBenh.pdb
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.csproj.AssemblyReference.cache
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.Anh.resources
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.huongdan.resources
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.Main.resources
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.Thongtin.resources
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.Ketqua.resources
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.Properties.Resources.resources
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.QuanLiLuat.resources
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.XemHuongDan.resources
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.csproj.GenerateResource.cache
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.csproj.CoreCompileInputs.cache
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.exe
+E:\Documents\Hệ chuyên gia\HeChuanDoanBenh\HeChuanDoanBenh\obj\Debug\HeChuanDoanBenh.pdb
